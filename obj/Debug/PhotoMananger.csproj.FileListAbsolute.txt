@@ -1,0 +1,16 @@
+I:\PhotoMananger\PhotoMananger\bin\Debug\PhotoMananger.exe
+I:\PhotoMananger\PhotoMananger\bin\Debug\PhotoMananger.pdb
+I:\PhotoMananger\PhotoMananger\obj\Debug\ResolveAssemblyReference.cache
+I:\PhotoMananger\PhotoMananger\obj\Debug\PhotoMananger.Form1.resources
+I:\PhotoMananger\PhotoMananger\obj\Debug\PhotoMananger.Properties.Resources.resources
+I:\PhotoMananger\PhotoMananger\obj\Debug\PhotoMananger.csproj.GenerateResource.Cache
+I:\PhotoMananger\PhotoMananger\obj\Debug\PhotoMananger.exe
+I:\PhotoMananger\PhotoMananger\obj\Debug\PhotoMananger.pdb
+D:\Users\thinkpad\Documents\Visual Studio 2012\Projects\PhotoMananger\PhotoMananger\obj\Debug\PhotoMananger.exe
+D:\Users\thinkpad\Documents\Visual Studio 2012\Projects\PhotoMananger\PhotoMananger\obj\Debug\PhotoMananger.pdb
+D:\Users\thinkpad\Documents\Visual Studio 2012\Projects\PhotoMananger\PhotoMananger\bin\Debug\PhotoMananger.exe
+D:\Users\thinkpad\Documents\Visual Studio 2012\Projects\PhotoMananger\PhotoMananger\bin\Debug\PhotoMananger.pdb
+D:\Users\thinkpad\Documents\Visual Studio 2012\Projects\PhotoMananger\PhotoMananger\obj\Debug\PhotoMananger.csprojResolveAssemblyReference.cache
+D:\Users\thinkpad\Documents\Visual Studio 2012\Projects\PhotoMananger\PhotoMananger\obj\Debug\PhotoMananger.Form1.resources
+D:\Users\thinkpad\Documents\Visual Studio 2012\Projects\PhotoMananger\PhotoMananger\obj\Debug\PhotoMananger.Properties.Resources.resources
+D:\Users\thinkpad\Documents\Visual Studio 2012\Projects\PhotoMananger\PhotoMananger\obj\Debug\PhotoMananger.csproj.GenerateResource.Cache
